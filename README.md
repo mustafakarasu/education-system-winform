@@ -1,2 +1,2 @@
 # EducationSystem
-## Uygulamayı [indir](https://mustafakarasu.xyz/educationsystem.zip) ve yükle
+## Uygulamayı [indir](https://www.mustafakarasu.com/educationsystem.zip) ve yükle
